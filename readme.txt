@@ -38,10 +38,3 @@ Notes about the Matlab Function Paradigm pmf_dRDS_correlatedFigure_variableBackg
 %   -Each subfunction must conclude with call to "assignin( 'base', 'output', ... )",
 %   where value assigned to "output" is a variable or cell array containing variables
 %   that xDiva needs to complete the desired task.
-
-
-Note that at the time Holly was collecting data, she was using earlier (very similar versions of this .m file) which are:
-
-pmf_RDS_Corr_Fig_Variable_Bgr_RB_8bit_Sqr_Cyc.m (most recent version used for adults & babies)
-
-pmf_RDS_Corr_Fig_Variable_Bgr_RB_8bit_SquareOpt.m (older version used for adult piloting)

@@ -1,0 +1,18 @@
+This directory provides more information about the exact paradigms run in the “3D Threshold” experiments led by Holly Gerhard.
+
+
+pmf_RDS_Corr_Fig_Variable_Bgr_RB_8bit_Sqr_Cyc.m
+
+was used for baby data collection
+
+
+pmf_RDS_Corr_Fig_Variable_Bgr_RB_8bit_SquareOpt.m
+
+was used for early versions of adult data collection
+
+
+
+The only difference is that the baby version has the additional option for picking the thickness of the cyclopean bars (i.e. how many cycles/deg. the bars are). The cleaner version in pmf_dRDS_correlatedFigure_variableBackgrd.m includes functionality to reproduce any type of experiment that was run.
+
+
+The subdirectories here list example stimuli information for each paradigm run. The associated *.mat variables are not included here for space considerations, but they are available on internal SVNDL servers (available only for internal users).

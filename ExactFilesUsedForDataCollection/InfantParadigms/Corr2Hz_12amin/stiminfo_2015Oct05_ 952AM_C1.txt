@@ -1,0 +1,60 @@
+Calling MakeMovie...
+
+Unique stimulus not requested. Checking files on disk...
+Time elapsed for image search: 0.919671 seconds.
+
+Defining video, timing, stimulus parameters:
+
+preludeType = Dynamic
+numPreludeBins: 1
+numCoreBins: 10
+Total frames incl. pre-/post-ludes = 720
+Stimulus extent: SquareOnly
+Stimulus Contrast = 100.00%
+Screen dimensions = 143.00 x 80.50 cm (1920 x 1080 px) @ 6.000002e+01 Hz
+
+NOTE! Screen dimensions are hardcoded (temporary xDiva workaround).
+
+Screen dimensions = 71.13 x 40.01 DVA
+Viewing Dist = 100.00 cm
+13.427 pixels per cm
+1 pixel = 2.223 arcmin
+Anti-aliasing factor set to 4; smallest possible disparity = 0.555699 arcmin
+Stimulus displayable area is largest possible square (40.010364 x 40.010364 DVA).
+
+NOTE! Red values will be modulated by 0.4078 (temporary xDiva workaround).
+
+dotDensity: 5.00/deg^2, (~14230 dots)
+dotSize: 4.446 amin (2.0000 px)
+stimGeom: Hbars, sizeSetting: Bars 20 cycles
+
+SWEEP: Bgr Corr
+Modulation type: ZeroNear
+Disparity type: Horizontal
+
+Bin/Step Values
+Disp. (amin)	Bgr Corr
+12.000000	0.000000
+12.000000	0.111111
+12.000000	0.222222
+12.000000	0.333333
+12.000000	0.444444
+12.000000	0.555556
+12.000000	0.666667
+12.000000	0.777778
+12.000000	0.888889
+12.000000	1.000000
+
+Length(rImSeq): 720
+All params defined.
+
+
+Ready to attempt PTB code...
+Color range of display: 0 - 255
+Size of stimulus display area: 1080 x 1080
+Looping over numCoreFrames (600)
+20 cycles of a square wave grating shown (0.499870 cpd)
+PTB success.
+PTB loop elapsed time: 906.346960 sec.
+rIms size: [1080 1080 2 200], 0.434518 GB.
+Success with MakeMovie!
