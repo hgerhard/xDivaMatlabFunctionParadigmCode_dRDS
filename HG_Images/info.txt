@@ -1,0 +1,1 @@
+Matlab image variables are written out here. No variables are included, in the interest of saving space.
